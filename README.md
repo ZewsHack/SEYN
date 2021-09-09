@@ -1,2 +1,3 @@
-# ROEYN
-ROEYN - recognition of everything you need
+# SEYN
+SEYN - sees everything you need
+
